@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:bouteille_xl", "y": 180 },
+       "facing=south": { "model": "mizug:bouteille_xl" },
+       "facing=west":  { "model": "mizug:bouteille_xl", "y": 90 },
+       "facing=east":  { "model": "mizug:bouteille_xl", "y": 270 }
+   }
+}
+

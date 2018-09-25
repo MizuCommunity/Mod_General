@@ -1,0 +1,8 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:debut_pont" },
+       "facing=south": { "model": "mizug:debut_pont", "y": 180 },
+       "facing=west":  { "model": "mizug:debut_pont", "y": 270 },
+       "facing=east":  { "model": "mizug:debut_pont", "y": 90 }
+   }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "C B",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "mizug:lingot_en_fusion_beryllium"
+    },
+    "B": {
+      "item": "mizug:lingot_en_fusion_cuivre"
+    }
+  },
+  "result": {
+    "item": "mizug:beryllium_ingot"
+  }
+}

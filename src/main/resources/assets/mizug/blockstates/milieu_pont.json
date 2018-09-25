@@ -1,0 +1,8 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:milieu_pont" },
+       "facing=south": { "model": "mizug:milieu_pont", "y": 180 },
+       "facing=west":  { "model": "mizug:milieu_pont", "y": 270 },
+       "facing=east":  { "model": "mizug:milieu_pont", "y": 90 }
+   }
+}

@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:oak_wooded", "y": 90 },
+       "facing=south": { "model": "mizug:oak_wooded", "y": 270 },
+       "facing=west":  { "model": "mizug:oak_wooded", "y": 180 },
+       "facing=east":  { "model": "mizug:oak_wooded" }
+   }
+}
+

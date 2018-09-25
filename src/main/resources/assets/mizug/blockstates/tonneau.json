@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:tonneau", "y": 90 },
+       "facing=south": { "model": "mizug:tonneau", "y": 270 },
+       "facing=west":  { "model": "mizug:tonneau", "y": 180 },
+       "facing=east":  { "model": "mizug:tonneau" }
+   }
+}
+

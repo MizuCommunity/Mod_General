@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "mizug:blocks/pommier_leaves"
+    }
+}

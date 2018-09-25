@@ -1,0 +1,11 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:beer_plate", "y": 180 },
+       "facing=south": { "model": "mizug:beer_plate" },
+       "facing=west":  { "model": "mizug:beer_plate", "y": 90 },
+       "facing=east":  { "model": "mizug:beer_plate", "y": 270 }
+   }
+}
+
+
+

@@ -1,0 +1,9 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=y":  { "model": "mizug:apple_log" },
+        "axis=z":   { "model": "mizug:apple_log", "x": 90 },
+        "axis=x":   { "model": "mizug:apple_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "mizug:apple_log" }
+    }
+}

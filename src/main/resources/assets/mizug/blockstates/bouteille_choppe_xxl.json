@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:bouteille_choppe_xxl", "y": 180 },
+       "facing=south": { "model": "mizug:bouteille_choppe_xxl" },
+       "facing=west":  { "model": "mizug:bouteille_choppe_xxl", "y": 90 },
+       "facing=east":  { "model": "mizug:bouteille_choppe_xxl", "y": 270 }
+   }
+}
+

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mizug:blocks/log_pommier_top",
+        "side": "mizug:blocks/log_pommier"
+    }
+}

@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:chaise", "y": 180 },
+       "facing=south": { "model": "mizug:chaise" },
+       "facing=west":  { "model": "mizug:chaise", "y": 90 },
+       "facing=east":  { "model": "mizug:chaise", "y": 270 }
+   }
+}
+

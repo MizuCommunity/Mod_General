@@ -1,0 +1,11 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:rack_armes", "y": 180 },
+       "facing=south": { "model": "mizug:rack_armes" },
+       "facing=west":  { "model": "mizug:rack_armes", "y": 90 },
+       "facing=east":  { "model": "mizug:rack_armes", "y": 270 }
+   }
+}
+
+
+

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "080",
+    "0 0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:wooden_pressure_plate"
+    }
+  },
+  "result": {
+    "item": "mizug:chaise"
+  }
+}

@@ -1,0 +1,8 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:sceau_bois" },
+       "facing=south": { "model": "mizug:sceau_bois", "y": 180 },
+       "facing=west":  { "model": "mizug:sceau_bois", "y": 270 },
+       "facing=east":  { "model": "mizug:sceau_bois", "y": 90 }
+   }
+}

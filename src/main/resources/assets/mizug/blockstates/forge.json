@@ -1,0 +1,8 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:forge" },
+       "facing=south": { "model": "mizug:forge", "y": 180 },
+       "facing=west":  { "model": "mizug:forge", "y": 270 },
+       "facing=east":  { "model": "mizug:forge", "y": 90 }
+   }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mizug",
+  "name": "Mizu General",
+  "description": "Ceci est le mod General de Mizu.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wonyu", "PΘwΣr CΛt"],
+  "credits": "The Forge and FML guys, PΘwΣr CΛt pour les models et les textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

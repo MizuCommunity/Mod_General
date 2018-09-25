@@ -1,0 +1,9 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:armoire_portes" },
+       "facing=south": { "model": "mizug:armoire_portes", "y": 180 },
+       "facing=west":  { "model": "mizug:armoire_portes", "y": 270 },
+       "facing=east":  { "model": "mizug:armoire_portes", "y": 90 }
+   }
+}
+

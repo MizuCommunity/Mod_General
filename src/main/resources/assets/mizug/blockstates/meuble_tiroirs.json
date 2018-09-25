@@ -1,0 +1,8 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:meuble_tiroirs" },
+       "facing=south": { "model": "mizug:meuble_tiroirs", "y": 180 },
+       "facing=west":  { "model": "mizug:meuble_tiroirs", "y": 270 },
+       "facing=east":  { "model": "mizug:meuble_tiroirs", "y": 90 }
+   }
+}

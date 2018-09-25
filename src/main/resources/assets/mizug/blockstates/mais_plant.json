@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "mizug:stages/cultures/mais_stage01" },
+        "age=1": { "model": "mizug:stages/cultures/mais_stage01" },
+        "age=2": { "model": "mizug:stages/cultures/mais_stage02" },
+        "age=3": { "model": "mizug:stages/cultures/mais_stage03" },
+        "age=4": { "model": "mizug:stages/cultures/mais_stage04" },
+        "age=5": { "model": "mizug:stages/cultures/mais_stage05" },
+        "age=6": { "model": "mizug:stages/cultures/mais_stage06" },
+        "age=7": { "model": "mizug:stages/cultures/mais_stage06" }
+    }
+}

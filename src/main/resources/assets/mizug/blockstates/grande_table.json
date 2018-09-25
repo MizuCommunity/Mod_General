@@ -1,0 +1,11 @@
+{
+   "variants": {
+       "facing=north": { "model": "mizug:grande_table", "y": 90 },
+       "facing=south": { "model": "mizug:grande_table", "y": 270 },
+       "facing=west":  { "model": "mizug:grande_table", "y": 180 },
+       "facing=east":  { "model": "mizug:grande_table" }
+   }
+}
+
+
+
